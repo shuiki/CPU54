@@ -1,0 +1,34 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/MULTU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MULTU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.ip_user_files/ipstatic/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v" into library dist_mem_gen_v8_0_10
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_v8_0_10
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/PCreg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PcReg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/MULT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MULT
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/DIVU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DIVU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/DIV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DIV
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/CP0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CP0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/CLK_DIV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLK_DIV
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/IMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/DMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/sccomp_dataflow.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sccomp_dataflow
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module all_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

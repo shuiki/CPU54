@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.sim/sim_1/synth/func/all_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module CLK_DIV
+INFO: [VRFC 10-311] analyzing module CP0
+INFO: [VRFC 10-311] analyzing module CPU
+INFO: [VRFC 10-311] analyzing module DIV
+INFO: [VRFC 10-311] analyzing module DIVU
+INFO: [VRFC 10-311] analyzing module DMEM
+INFO: [VRFC 10-311] analyzing module IMEM
+INFO: [VRFC 10-311] analyzing module MULT
+INFO: [VRFC 10-311] analyzing module MULTU
+INFO: [VRFC 10-311] analyzing module MULTU_0
+INFO: [VRFC 10-311] analyzing module PcReg
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-311] analyzing module sccomp_dataflow
+INFO: [VRFC 10-311] analyzing module seg7x16
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_0_dist_mem_gen_v8_0_10
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module all_tb

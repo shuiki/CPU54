@@ -1,0 +1,378 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/vivado_projects/CPU54/CPU54.sim/sim_1/behav
+vall_tb
+!s10a 1626107946
+Z1 !s110 1626108690
+!i10b 1
+!s100 D5lRDVfiZ3nGb7>AinS313
+I@T9bBbGeTV4>djC;[8Wga3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1626107946
+8../../../CPU54.srcs/sources_1/new/all_tb.v
+F../../../CPU54.srcs/sources_1/new/all_tb.v
+Z3 L0 23
+Z4 OP;L;10.4c;61
+r1
+!s85 0
+31
+Z5 !s108 1626108690.000000
+Z6 !s107 ../../../CPU54.srcs/sources_1/new/all_tb.v|../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/CLK_DIV.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|
+Z7 !s90 -64|-incr|-work|xil_defaultlib|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/CLK_DIV.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|../../../CPU54.srcs/sources_1/new/all_tb.v|
+!i113 1
+Z8 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vALU
+!s10a 1626106027
+R1
+!i10b 1
+!s100 F^dYL=V4RLBbiTHjXHU7X2
+Ie4oRMLOD99S`7Z_k:<44l2
+R2
+R0
+w1626106027
+8../../../CPU54.srcs/sources_1/new/ALU.v
+F../../../CPU54.srcs/sources_1/new/ALU.v
+L0 126
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@a@l@u
+vCLK_DIV
+!s10a 1626109791
+Z9 !s110 1626109896
+!i10b 1
+!s100 nm;;dkz2MZFPag4ILzii=1
+IcJ9e3o^Jf][jFaNO;BLz<3
+R2
+R0
+w1626109791
+8../../../CPU54.srcs/sources_1/new/CLK_DIV.v
+F../../../CPU54.srcs/sources_1/new/CLK_DIV.v
+Z10 L0 22
+R4
+r1
+!s85 0
+31
+Z11 !s108 1626109896.000000
+R6
+R7
+!i113 1
+R8
+n@c@l@k_@d@i@v
+vCP0
+!s10a 1625749039
+Z12 !s110 1625767038
+!i10b 1
+!s100 =cQ7NZifIjD_T1QMbdH;k3
+IWR;kVCIYn]L5f:1:KCgFO0
+R2
+R0
+w1625749039
+8../../../CPU54.srcs/sources_1/new/CP0.v
+F../../../CPU54.srcs/sources_1/new/CP0.v
+Z13 L0 24
+R4
+r1
+!s85 0
+31
+Z14 !s108 1625767038.000000
+Z15 !s107 ../../../CPU54.srcs/sources_1/new/all_tb.v|../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|
+Z16 !s90 -64|-incr|-work|xil_defaultlib|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|../../../CPU54.srcs/sources_1/new/all_tb.v|
+!i113 1
+R8
+n@c@p0
+vCPU
+!s10a 1626109747
+R9
+!i10b 1
+!s100 ?YO?ETYi9If`io_S4F_in2
+I01m[`TkmAL2IiITi>bleo0
+R2
+R0
+w1626109747
+8../../../CPU54.srcs/sources_1/new/CPU.v
+F../../../CPU54.srcs/sources_1/new/CPU.v
+R3
+R4
+r1
+!s85 0
+31
+R11
+R6
+R7
+!i113 1
+R8
+n@c@p@u
+vdist_mem_gen_0
+!s10a 1626068192
+R12
+!i10b 1
+!s100 1GjGNR?^_YejMjWJYfGVA2
+IaE;Q<Je2FXUMQ]0jL[bBa3
+R2
+R0
+w1625747246
+8../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v
+F../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v
+L0 56
+R4
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R8
+vDIV
+!s10a 1625816775
+!s110 1626080065
+!i10b 1
+!s100 O^UWn`kSnVE`A15oAE3]b0
+IRRiY`5KlkiX[J]1]n@I[A2
+R2
+R0
+w1625814916
+8../../../CPU54.srcs/sources_1/new/DIV.v
+F../../../CPU54.srcs/sources_1/new/DIV.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1626080065.000000
+Z17 !s107 ../../../CPU54.srcs/sources_1/new/all_tb.v|../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/CLK_DIV.v|../../../CPU54.srcs/sources_1/new/seg7x16.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|
+Z18 !s90 -64|-incr|-work|xil_defaultlib|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/new/seg7x16.v|../../../CPU54.srcs/sources_1/new/CLK_DIV.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|../../../CPU54.srcs/sources_1/new/all_tb.v|
+!i113 1
+R8
+n@d@i@v
+vDIVU
+!s10a 1625816789
+!s110 1626084627
+!i10b 1
+!s100 KGYF?@>Zgng6l]njX9kk40
+IIk=7`Cz;B`MX`1Bm_JU5Y1
+R2
+R0
+w1625816789
+8../../../CPU54.srcs/sources_1/new/DIVU.v
+F../../../CPU54.srcs/sources_1/new/DIVU.v
+R13
+R4
+r1
+!s85 0
+31
+!s108 1626084627.000000
+R17
+R18
+!i113 1
+R8
+n@d@i@v@u
+vDMEM
+!s10a 1625816821
+Z19 !s110 1625813071
+!i10b 1
+!s100 bEhm^[5Zc9E3MFbz:I7LK0
+I0hD0UOOPNII_?kSShm>=O2
+R2
+R0
+w1625810031
+8../../../CPU54.srcs/sources_1/new/DMEM.v
+F../../../CPU54.srcs/sources_1/new/DMEM.v
+R3
+R4
+r1
+!s85 0
+31
+Z20 !s108 1625813071.000000
+Z21 !s107 ../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/CLK_DIV.v|../../../CPU54.srcs/sources_1/new/seg7x16.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|
+Z22 !s90 -64|-incr|-work|xil_defaultlib|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/new/seg7x16.v|../../../CPU54.srcs/sources_1/new/CLK_DIV.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|
+!i113 1
+R8
+n@d@m@e@m
+vglbl
+!s110 1626143700
+!i10b 1
+!s100 g=dL3UKAkhNRkQ:7=fPzF1
+IkJ@CGO[n5[_3E=ZkTzmEk2
+R2
+R0
+w1464879896
+8glbl.v
+Fglbl.v
+L0 6
+R4
+r1
+!s85 0
+31
+!s108 1626143700.000000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 1
+R8
+vIMEM
+!s10a 1625303085
+R12
+!i10b 1
+!s100 ;bSZ7bZ2EEB0DlocS:jjD2
+I7bF2O;??5DSCzaPFUm]f@3
+R2
+R0
+w1625303085
+8../../../CPU54.srcs/sources_1/new/IMEM.v
+F../../../CPU54.srcs/sources_1/new/IMEM.v
+R3
+R4
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R8
+n@i@m@e@m
+vMULT
+!s10a 1625506274
+R12
+!i10b 1
+!s100 i9hAGo6@0m7`hmnK[PB6F2
+IQL]n2HSK1Qj_J8o:06>dn0
+R2
+R0
+w1625506274
+8../../../CPU54.srcs/sources_1/new/MULT.v
+F../../../CPU54.srcs/sources_1/new/MULT.v
+R3
+R4
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R8
+n@m@u@l@t
+vMULTU
+!s10a 1625506244
+R12
+!i10b 1
+!s100 l[jF3YDQ2MXR:hJ_3CBTE0
+IKZKSdKP@5KdXSK>@U0[gl2
+R2
+R0
+w1625506244
+8../../../CPU54.srcs/sources_1/new/MULTU.v
+F../../../CPU54.srcs/sources_1/new/MULTU.v
+R10
+R4
+r1
+!s85 0
+31
+R14
+!s107 ../../../CPU54.srcs/sources_1/new/MULTU.v|
+!s90 -64|-incr|-work|xil_defaultlib|../../../CPU54.srcs/sources_1/new/MULTU.v|
+!i113 1
+R8
+n@m@u@l@t@u
+vPcReg
+!s10a 1625199716
+R12
+!i10b 1
+!s100 T@zR;A5TgfmS`MUBW_4_k0
+IOhEAJ8H0GEzXocSEmI2g63
+R2
+R0
+w1625199716
+8../../../CPU54.srcs/sources_1/new/PCreg.v
+F../../../CPU54.srcs/sources_1/new/PCreg.v
+R3
+R4
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R8
+n@pc@reg
+vRegFile
+!s10a 1626099776
+!s110 1626101553
+!i10b 1
+!s100 GXR?nF_F>l^b9WF:IfeYg1
+IY_L3ZQz6gRfDNlg9NU@Rf3
+R2
+R0
+w1626099776
+8../../../CPU54.srcs/sources_1/new/RegFile.v
+F../../../CPU54.srcs/sources_1/new/RegFile.v
+L0 103
+R4
+r1
+!s85 0
+31
+!s108 1626101553.000000
+!s107 ../../../CPU54.srcs/sources_1/new/all_tb.v|../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/CLK_DIV.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|
+!s90 -64|-incr|-work|xil_defaultlib|../../../CPU54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|../../../CPU54.srcs/sources_1/new/RegFile.v|../../../CPU54.srcs/sources_1/new/PCreg.v|../../../CPU54.srcs/sources_1/new/MULT.v|../../../CPU54.srcs/sources_1/new/DIVU.v|../../../CPU54.srcs/sources_1/new/DIV.v|../../../CPU54.srcs/sources_1/new/CP0.v|../../../CPU54.srcs/sources_1/new/ALU.v|../../../CPU54.srcs/sources_1/new/CPU.v|../../../CPU54.srcs/sources_1/new/CLK_DIV.v|../../../CPU54.srcs/sources_1/new/IMEM.v|../../../CPU54.srcs/sources_1/new/DMEM.v|../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v|../../../CPU54.srcs/sources_1/new/all_tb.v|
+!i113 1
+R8
+n@reg@file
+vsccomp_dataflow
+!s10a 1626103852
+!s110 1626103901
+!i10b 1
+!s100 na@M:9@?=3aiDzgE6?DL91
+I1kD26[iiV1Ri^n?g`NjUc1
+R2
+R0
+w1626103852
+8../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v
+F../../../CPU54.srcs/sources_1/new/sccomp_dataflow.v
+R3
+R4
+r1
+!s85 0
+31
+!s108 1626103901.000000
+R6
+R7
+!i113 1
+R8
+vseg7x16
+!s10a 1493885168
+R19
+!i10b 1
+!s100 VSY>iEWcaUFjkD82dCOlc1
+IgW^TPGC[gJeo1YZiNg?W_2
+R2
+R0
+w1493885168
+8../../../CPU54.srcs/sources_1/new/seg7x16.v
+F../../../CPU54.srcs/sources_1/new/seg7x16.v
+L0 21
+R4
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R8

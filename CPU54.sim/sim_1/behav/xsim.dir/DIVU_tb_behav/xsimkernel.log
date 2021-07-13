@@ -1,0 +1,7 @@
+Running: xsim.dir/DIVU_tb_behav/xsimk.exe -simmode gui -wdb DIVU_tb_behav.wdb -simrunnum 0 -socket 57935
+Design successfully loaded
+Design Loading Memory Usage: 9524 KB (Peak: 9524 KB)
+Design Loading CPU Usage: 108 ms
+Simulation completed
+Simulation Memory Usage: 10080 KB (Peak: 10080 KB)
+Simulation CPU Usage: 124 ms

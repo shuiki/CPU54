@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Tue Jul 13 10:53:34 2021">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="cddc323fb83f45848239e320e668ece8" type="ProjectID"/>
+<property name="ProjectIteration" value="35" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="15" type="JavaHandler"/>
+<property name="AutoConnectTarget" value="7" type="JavaHandler"/>
+<property name="CoreView" value="4" type="JavaHandler"/>
+<property name="CustomizeCore" value="1" type="JavaHandler"/>
+<property name="EditDelete" value="43" type="JavaHandler"/>
+<property name="EditProperties" value="2" type="JavaHandler"/>
+<property name="EditUndo" value="2" type="JavaHandler"/>
+<property name="FlipToViewTaskSynthesis" value="3" type="JavaHandler"/>
+<property name="LaunchProgramFpga" value="22" type="JavaHandler"/>
+<property name="NewProject" value="2" type="JavaHandler"/>
+<property name="OpenExample" value="1" type="JavaHandler"/>
+<property name="OpenHardwareManager" value="17" type="JavaHandler"/>
+<property name="OpenRecentTarget" value="3" type="JavaHandler"/>
+<property name="ProjectSettingsCmdHandler" value="44" type="JavaHandler"/>
+<property name="RecustomizeCore" value="83" type="JavaHandler"/>
+<property name="ReportClockNetworks" value="1" type="JavaHandler"/>
+<property name="ReportTimingSummary" value="5" type="JavaHandler"/>
+<property name="RunBitgen" value="17" type="JavaHandler"/>
+<property name="RunImplementation" value="17" type="JavaHandler"/>
+<property name="RunSchematic" value="11" type="JavaHandler"/>
+<property name="RunSynthesis" value="65" type="JavaHandler"/>
+<property name="SaveDesign" value="1" type="JavaHandler"/>
+<property name="SaveFileProxyHandler" value="12" type="JavaHandler"/>
+<property name="SetSourceEnabled" value="10" type="JavaHandler"/>
+<property name="SetTopNode" value="1" type="JavaHandler"/>
+<property name="ShowSource" value="1" type="JavaHandler"/>
+<property name="ShowView" value="4" type="JavaHandler"/>
+<property name="SimulationClose" value="4" type="JavaHandler"/>
+<property name="SimulationRelaunch" value="226" type="JavaHandler"/>
+<property name="SimulationRun" value="88" type="JavaHandler"/>
+<property name="ToggleViewNavigator" value="1" type="JavaHandler"/>
+<property name="ViewTaskProjectManager" value="163" type="JavaHandler"/>
+<property name="ViewTaskSimulation" value="100" type="JavaHandler"/>
+<property name="ViewTaskSynthesis" value="3" type="JavaHandler"/>
+</item>
+</section>
+</application>
+</document>

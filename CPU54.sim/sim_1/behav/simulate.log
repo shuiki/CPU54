@@ -1,0 +1,49 @@
+# do {all_tb_simulate.do}
+# vsim -voptargs=""+acc"" -L unisims_ver -L unimacro_ver -L secureip -L xil_defaultlib -L dist_mem_gen_v8_0_10 -lib xil_defaultlib xil_defaultlib.all_tb xil_defaultlib.glbl 
+# Start time: 10:35:08 on Jul 13,2021
+# //  ModelSim PE 10.4c Jul 20 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# Loading xil_defaultlib.all_tb
+# Loading xil_defaultlib.sccomp_dataflow
+# Loading xil_defaultlib.CLK_DIV
+# Loading xil_defaultlib.IMEM
+# Loading xil_defaultlib.dist_mem_gen_0
+# Loading dist_mem_gen_v8_0_10.dist_mem_gen_v8_0_10
+# Loading xil_defaultlib.DMEM
+# Loading xil_defaultlib.CPU
+# Loading xil_defaultlib.DIV
+# Loading xil_defaultlib.DIVU
+# Loading xil_defaultlib.MULT
+# Loading xil_defaultlib.MULTU
+# Loading xil_defaultlib.CP0
+# Loading xil_defaultlib.PcReg
+# Loading xil_defaultlib.ALU
+# Loading xil_defaultlib.RegFile
+# Loading xil_defaultlib.glbl
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: ShiRu  Hostname: LAPTOP-KS3IFLBU  ProcessID: 16280
+# 
+#           Attempting to use alternate WLF file "./wlft8w77nf".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlft8w77nf
+# 
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+# ** Warning: (vsim-PLI-3408) Too few data words read on line 1315 of file "dist_mem_gen_0.mif". Expected 2048, found 1314.    : ../../../CPU54.ip_user_files/ipstatic/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v(234)
+#    Time: 0 ps  Iteration: 0  Instance: /all_tb/uut/imemory/instr_mem/inst

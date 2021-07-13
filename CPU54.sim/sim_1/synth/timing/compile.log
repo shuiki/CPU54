@@ -1,0 +1,38 @@
+# do {all_tb_compile.do}
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# ** Warning: (vlib-34) Library already exists at "msim".
+# 
+# ** Warning: (vlib-34) Library already exists at "msim/xil_defaultlib".
+# 
+# Model Technology ModelSim PE vmap 10.4c Lib Mapping Utility 2015.07 Jul 20 2015
+# vmap xil_defaultlib msim/xil_defaultlib 
+# Modifying modelsim.ini
+# ** Warning: (vlog-159) Mode option -64 is not supported in this context and will be ignored.
+# 
+# Model Technology ModelSim PE vlog 10.4c Compiler 2015.07 Jul 20 2015
+# Start time: 10:38:46 on Jul 13,2021
+# vlog -64 -incr -work xil_defaultlib all_tb_time_synth.v ../../../../CPU54.srcs/sources_1/new/all_tb.v 
+# -- Skipping module dist_mem_gen_0
+# -- Skipping module ALU
+# -- Skipping module CP0
+# -- Skipping module CPU
+# -- Skipping module DIV
+# -- Skipping module DIVU
+# -- Skipping module DMEM
+# -- Skipping module IMEM
+# -- Skipping module MULT
+# -- Skipping module MULTU
+# -- Skipping module MULTU_0
+# -- Skipping module PcReg
+# -- Skipping module RegFile
+# -- Skipping module sccomp_dataflow
+# -- Skipping module dist_mem_gen_0_dist_mem_gen_v8_0_10
+# -- Skipping module glbl
+# -- Skipping module all_tb
+# 
+# Top level modules:
+# 	glbl
+# 	all_tb
+# End time: 10:38:49 on Jul 13,2021, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 1

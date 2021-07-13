@@ -1,0 +1,27 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto 1d8716b2af0647a6adc706bd5e5cd9d0 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot all_tb_func_synth xil_defaultlib.all_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-426] cannot find port pc on this module [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:97]
+ERROR: [VRFC 10-93] inst is not declared under prefix uut [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:60]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[0] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:61]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[1] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:62]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[2] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:63]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[3] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:64]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[4] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:65]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[5] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:66]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[6] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:67]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[7] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:68]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[8] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:69]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[9] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:70]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[10] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:71]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[11] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:72]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[12] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:73]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[13] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:74]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[14] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:75]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[15] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:76]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[16] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:77]
+ERROR: [VRFC 10-91] uut.sccpu.cpu_ref.array_reg[17] is not declared [D:/vivado_projects/CPU54/CPU54.srcs/sources_1/new/all_tb.v:78]
+INFO: [#UNDEF] Sorry, too many errors..
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
